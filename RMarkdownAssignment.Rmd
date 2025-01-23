@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Adam Nur"
 date: "Data 2401"
 output: html_document
 ---
@@ -35,3 +35,26 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
  
+## Wise Words: 
+ 
+ You Forget A Thousand Things Every Day, Pal. Make Sure This Is One Of 'Em." https://screenrant.com/gta-5-best-quotes/
+ 
+## My Semester:
+  |Course Number                     |    Course Name      |Instructor Name|
+  |:---------------------------------|---------------------|---------------|
+  |__CS:2311__                       |_Data Structures_    |John Henderson|
+  |__MATH:2421__                     |_Differential Calculus_|Dr.Yoon|
+  |__MATH 2305__                     |_Discrete Mathematics_|Mukesh Kumar|
+  
+
+## I Recommend:
+
+### Malcolm Gladwell
+
+``` 
+Talking to Strangers
+```
+1. Outliers
+2. The Tipping Point
+3. Blink
+4. Revenge of the Tipping Point
